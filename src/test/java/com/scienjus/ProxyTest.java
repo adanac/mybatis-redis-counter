@@ -41,7 +41,7 @@ public class ProxyTest {
 
 	private static final int DEFAULT_VIEW_COUNT = 5;
 
-	private static final double DEFAULT_SCORE = 10.1;
+	private static final double DEFAULT_SCORE = 10;
 
 	@BeforeClass
 	public static void before() {
